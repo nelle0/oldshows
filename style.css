@@ -1,0 +1,57 @@
+body {
+    background-color: lavender;
+}
+
+
+p {
+    color: black;
+    text-align: center;
+    font-family: arial;
+    font-size: 40px
+}
+
+
+h1 {
+    color: purple;
+    text-align: left;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+a {
+    color: blue;
+    font-size: 20px
+}
+
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h3 {
+    color: purple;
+    text-align: left;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h4 {
+    color: red;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h5 {
+    color: purple;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
