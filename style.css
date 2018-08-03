@@ -11,19 +11,19 @@ p {
 }
 
 
-h1 {
-    color: purple;
-    text-align: center;
-    font-family: arial;
-    font-size: 30px
-}
-
-
 a {
     color: blue;
     text-align: center;
     font-family: arial;
     font-size: 20px   
+}
+
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
 }
 
 
@@ -57,3 +57,43 @@ h5 {
     font-family: arial;
     font-size: 30px
 }
+
+
+h6 {
+    color: red;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h7 {
+    color: purple;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h8 {
+    color: red;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}   
+
+
+h9 {
+    color: purple;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px
+}
+
+
+h10 {
+     color: red;
+     text-align: center;
+     font-family: arial;
+     font-size: 30px
+         
